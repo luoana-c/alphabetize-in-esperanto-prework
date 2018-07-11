@@ -13,8 +13,5 @@ def alphabetize(arr)
       break
     end
   end
-
-
-
   new_arr
 end
